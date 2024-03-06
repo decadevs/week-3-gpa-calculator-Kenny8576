@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9AE67-080E-4D46-8FA9-A35868895CF2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\zbook 14u g6\\desktop\\mypersonalpractice\\consoleapp1\\consoleapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF9AE67-080E-4D46-8FA9-A35868895CF2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9AE67-080E-4D46-8FA9-A35868895CF2}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\consoleapp1\\stdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF9AE67-080E-4D46-8FA9-A35868895CF2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\stdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9AE67-080E-4D46-8FA9-A35868895CF2}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF9AE67-080E-4D46-8FA9-A35868895CF2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9AE67-080E-4D46-8FA9-A35868895CF2}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\consoleapp1\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF9AE67-080E-4D46-8FA9-A35868895CF2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\ConsoleApp1\\Courses.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Courses.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\ConsoleApp1\\Courses.cs",
+              "RelativeToolTip": "ConsoleApp1\\Courses.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:08:54.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StData.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\ConsoleApp1\\StData.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\StData.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\ConsoleApp1\\StData.cs",
+              "RelativeToolTip": "ConsoleApp1\\StData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:36:38.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\ConsoleApp1\\Calculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Calculator.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\ConsoleApp1\\Calculator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Calculator.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswDoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:19:50.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\MyPersonalPractice\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T03:39:07.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
